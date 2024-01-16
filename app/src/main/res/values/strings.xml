@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VoiceNotes</string>
+    <string name="your_recordings">Your recordings</string>
+    <string name="audio_recording_rationale">Audio recording is impossible without the corresponding permission granted. The records will only be stored locally on this device.</string>
+    <string name="storage_writing_rationale">Records are saved on the storage of this device. Thus recording cannot be started without storage writing permission.</string>
+    <string name="grant">Grant</string>
+    <string name="no_permissions">No permissions to record and save audio. Go to Settings and grant the previously requested permissions.</string>
+    <string name="play_failed">Cannot play the recording</string>
+    <string name="record_failed">Failed to start recording</string>
+    <string name="audio_service_description">Audio recording and playback</string>
+    <string name="recording_playing">Recording is playing</string>
+    <string name="audio_service_name">Audio service</string>
+    <string name="rename_recording_caption">New recording name</string>
+    <string name="apply">Apply</string>
+</resources>
